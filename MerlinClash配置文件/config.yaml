@@ -35,363 +35,393 @@ proxy-groups:
     type: select
     proxies:
       - 🔃 自动选择
-      - 🇺🇸 美国节点
-      - 🇭🇰 香港节点
-      - 🇯🇵 日本节点
-      - 🇹🇼 台湾节点
-      - 🇸🇬 新加坡节点
-      - 🇰🇷 韩国节点
-      - 🇬🇧 英国节点
-      - 🌍 其他国家
+      - 🇺🇸 美国-故转
+      - 🇭🇰 香港-故转
+      - 🇯🇵 日本-故转
+      - 🇹🇼 台湾-故转
+      - 🇸🇬 新加坡-故转
+      - 🇰🇷 韩国-故转
+      - 🇬🇧 英国-故转
+      - 🌍 其他国家-故转
       - DIRECT
-    include-all: true
+    include-all: false
      
   - name: 🎥 YouTube
     type: select
     proxies:
       - 🔃 自动选择
-      - 🇺🇸 美国节点
-      - 🇭🇰 香港节点
-      - 🇯🇵 日本节点
-      - 🇹🇼 台湾节点
-      - 🇸🇬 新加坡节点
-      - 🇰🇷 韩国节点
-      - 🇬🇧 英国节点
-      - 🌍 其他国家
+      - 🇺🇸 美国-故转
+      - 🇭🇰 香港-故转
+      - 🇯🇵 日本-故转
+      - 🇹🇼 台湾-故转
+      - 🇸🇬 新加坡-故转
+      - 🇰🇷 韩国-故转
+      - 🇬🇧 英国-故转
+      - 🌍 其他国家-故转
       - DIRECT
-    include-all: true
+    include-all: false
       
   - name: 🎥 Netflix
     type: select
     proxies:
       - 🔃 自动选择
-      - 🇺🇸 美国节点
-      - 🇭🇰 香港节点
-      - 🇯🇵 日本节点
-      - 🇹🇼 台湾节点
-      - 🇸🇬 新加坡节点
-      - 🇰🇷 韩国节点
-      - 🇬🇧 英国节点
-      - 🌍 其他国家
+      - 🇺🇸 美国-故转
+      - 🇭🇰 香港-故转
+      - 🇯🇵 日本-故转
+      - 🇹🇼 台湾-故转
+      - 🇸🇬 新加坡-故转
+      - 🇰🇷 韩国-故转
+      - 🇬🇧 英国-故转
+      - 🌍 其他国家-故转
       - DIRECT
-    include-all: true
+    include-all: false
+
+  - name: 🎥 HBO
+    type: select
+    proxies:
+      - 🔃 自动选择
+      - 🇺🇸 美国-故转
+      - 🇭🇰 香港-故转
+      - 🇯🇵 日本-故转
+      - 🇹🇼 台湾-故转
+      - 🇸🇬 新加坡-故转
+      - 🇰🇷 韩国-故转
+      - 🇬🇧 英国-故转
+      - 🌍 其他国家-故转
+      - DIRECT
+    include-all: false  
 
   - name: 🎥 Disney+
     type: select
     proxies:
       - 🔃 自动选择
-      - 🇺🇸 美国节点
-      - 🇹🇼 台湾节点
-      - 🇭🇰 香港节点
-      - 🇯🇵 日本节点
-      - 🇸🇬 新加坡节点
-      - 🇰🇷 韩国节点
-      - 🇬🇧 英国节点
-      - 🌍 其他国家
+      - 🇺🇸 美国-故转
+      - 🇹🇼 台湾-故转
+      - 🇭🇰 香港-故转
+      - 🇯🇵 日本-故转
+      - 🇸🇬 新加坡-故转
+      - 🇰🇷 韩国-故转
+      - 🇬🇧 英国-故转
+      - 🌍 其他国家-故转
       - DIRECT
-    include-all: true
+    include-all: false
 
   - name: 📲 Telegram
     type: select
     proxies:
       - 🔃 自动选择
-      - 🇺🇸 美国节点
-      - 🇭🇰 香港节点
-      - 🇯🇵 日本节点
-      - 🇹🇼 台湾节点
-      - 🇸🇬 新加坡节点
-      - 🇰🇷 韩国节点
-      - 🇬🇧 英国节点
-      - 🌍 其他国家
+      - 🇺🇸 美国-故转
+      - 🇭🇰 香港-故转
+      - 🇯🇵 日本-故转
+      - 🇹🇼 台湾-故转
+      - 🇸🇬 新加坡-故转
+      - 🇰🇷 韩国-故转
+      - 🇬🇧 英国-故转
+      - 🌍 其他国家-故转
       - DIRECT
-    include-all: true
+    include-all: false
       
   - name: 📲 Twitter
     type: select
     proxies:
       - 🔃 自动选择
-      - 🇺🇸 美国节点
-      - 🇹🇼 台湾节点
-      - 🇭🇰 香港节点
-      - 🇯🇵 日本节点
-      - 🇸🇬 新加坡节点
-      - 🇰🇷 韩国节点
-      - 🇬🇧 英国节点
-      - 🌍 其他国家
+      - 🇺🇸 美国-故转
+      - 🇹🇼 台湾-故转
+      - 🇭🇰 香港-故转
+      - 🇯🇵 日本-故转
+      - 🇸🇬 新加坡-故转
+      - 🇰🇷 韩国-故转
+      - 🇬🇧 英国-故转
+      - 🌍 其他国家-故转
       - DIRECT
-    include-all: true
+    include-all: false
 
   - name: 📲 Instagram
     type: select
     proxies:
       - 🔃 自动选择
-      - 🇺🇸 美国节点
-      - 🇹🇼 台湾节点
-      - 🇭🇰 香港节点
-      - 🇯🇵 日本节点
-      - 🇸🇬 新加坡节点
-      - 🇰🇷 韩国节点
-      - 🇬🇧 英国节点
-      - 🌍 其他国家
+      - 🇺🇸 美国-故转
+      - 🇹🇼 台湾-故转
+      - 🇭🇰 香港-故转
+      - 🇯🇵 日本-故转
+      - 🇸🇬 新加坡-故转
+      - 🇰🇷 韩国-故转
+      - 🇬🇧 英国-故转
+      - 🌍 其他国家-故转
       - DIRECT
-    include-all: true
+    include-all: false
 
   - name: 📲 Facebook
     type: select
     proxies:
       - 🔃 自动选择
-      - 🇺🇸 美国节点
-      - 🇹🇼 台湾节点
-      - 🇭🇰 香港节点
-      - 🇯🇵 日本节点
-      - 🇸🇬 新加坡节点
-      - 🇰🇷 韩国节点
-      - 🇬🇧 英国节点
-      - 🌍 其他国家
+      - 🇺🇸 美国-故转
+      - 🇹🇼 台湾-故转
+      - 🇭🇰 香港-故转
+      - 🇯🇵 日本-故转
+      - 🇸🇬 新加坡-故转
+      - 🇰🇷 韩国-故转
+      - 🇬🇧 英国-故转
+      - 🌍 其他国家-故转
       - DIRECT
-    include-all: true
+    include-all: false
+
+  - name: 📲 WhatsApp
+    type: select
+    proxies:
+      - 🔃 自动选择
+      - 🇺🇸 美国-故转
+      - 🇹🇼 台湾-故转
+      - 🇭🇰 香港-故转
+      - 🇯🇵 日本-故转
+      - 🇸🇬 新加坡-故转
+      - 🇰🇷 韩国-故转
+      - 🇬🇧 英国-故转
+      - 🌍 其他国家-故转
+      - DIRECT
+    include-all: false  
 
   - name: 🎵 Spotify
     type: select
     proxies:
       - 🔃 自动选择
-      - 🇺🇸 美国节点
-      - 🇹🇼 台湾节点
-      - 🇭🇰 香港节点
-      - 🇯🇵 日本节点
-      - 🇸🇬 新加坡节点
-      - 🇰🇷 韩国节点
-      - 🇬🇧 英国节点
-      - 🌍 其他国家
+      - 🇺🇸 美国-故转
+      - 🇹🇼 台湾-故转
+      - 🇭🇰 香港-故转
+      - 🇯🇵 日本-故转
+      - 🇸🇬 新加坡-故转
+      - 🇰🇷 韩国-故转
+      - 🇬🇧 英国-故转
+      - 🌍 其他国家-故转
       - DIRECT
-    include-all: true
+    include-all: false
 
   - name: 🔍 Google
     type: select
     proxies:
       - 🔃 自动选择
-      - 🇺🇸 美国节点
-      - 🇹🇼 台湾节点
-      - 🇭🇰 香港节点
-      - 🇯🇵 日本节点
-      - 🇸🇬 新加坡节点
-      - 🇰🇷 韩国节点
-      - 🇬🇧 英国节点
-      - 🌍 其他国家
+      - 🇺🇸 美国-故转
+      - 🇹🇼 台湾-故转
+      - 🇭🇰 香港-故转
+      - 🇯🇵 日本-故转
+      - 🇸🇬 新加坡-故转
+      - 🇰🇷 韩国-故转
+      - 🇬🇧 英国-故转
+      - 🌍 其他国家-故转
       - DIRECT
-    include-all: true
+    include-all: false
     
   - name: 🍎 Apple
     type: select
     proxies:
       - 🔃 自动选择
-      - 🇺🇸 美国节点
-      - 🇹🇼 台湾节点
-      - 🇭🇰 香港节点
-      - 🇯🇵 日本节点
-      - 🇸🇬 新加坡节点
-      - 🇰🇷 韩国节点
-      - 🇬🇧 英国节点
-      - 🌍 其他国家
+      - 🇺🇸 美国-故转
+      - 🇹🇼 台湾-故转
+      - 🇭🇰 香港-故转
+      - 🇯🇵 日本-故转
+      - 🇸🇬 新加坡-故转
+      - 🇰🇷 韩国-故转
+      - 🇬🇧 英国-故转
+      - 🌍 其他国家-故转
       - DIRECT
-    include-all: true
+    include-all: false
 
   - name: 💻 Microsoft
     type: select
     proxies:
       - 🔃 自动选择
-      - 🇺🇸 美国节点
-      - 🇹🇼 台湾节点
-      - 🇭🇰 香港节点
-      - 🇯🇵 日本节点
-      - 🇸🇬 新加坡节点
-      - 🇰🇷 韩国节点
-      - 🇬🇧 英国节点
-      - 🌍 其他国家
+      - 🇺🇸 美国-故转
+      - 🇹🇼 台湾-故转
+      - 🇭🇰 香港-故转
+      - 🇯🇵 日本-故转
+      - 🇸🇬 新加坡-故转
+      - 🇰🇷 韩国-故转
+      - 🇬🇧 英国-故转
+      - 🌍 其他国家-故转
       - DIRECT
-    include-all: true
+    include-all: false
 
   - name: 🎮Steam
     type: select
     proxies:
-      - 🔃 自动选择
-      - 🇺🇸 美国节点
-      - 🇹🇼 台湾节点
-      - 🇭🇰 香港节点
-      - 🇯🇵 日本节点
-      - 🇸🇬 新加坡节点
-      - 🇰🇷 韩国节点
-      - 🇬🇧 英国节点
-      - 🌍 其他国家
       - DIRECT
-    include-all: true
+      - 🔃 自动选择
+      - 🇺🇸 美国-故转
+      - 🇹🇼 台湾-故转
+      - 🇭🇰 香港-故转
+      - 🇯🇵 日本-故转
+      - 🇸🇬 新加坡-故转
+      - 🇰🇷 韩国-故转
+      - 🇬🇧 英国-故转
+      - 🌍 其他国家-故转
+    include-all: false
 
   - name: 🎮 Xbox
     type: select
     proxies:
-      - 🔃 自动选择
-      - 🇺🇸 美国节点
-      - 🇹🇼 台湾节点
-      - 🇭🇰 香港节点
-      - 🇯🇵 日本节点
-      - 🇸🇬 新加坡节点
-      - 🇰🇷 韩国节点
-      - 🇬🇧 英国节点
-      - 🌍 其他国家
       - DIRECT
-    include-all: true
+      - 🔃 自动选择
+      - 🇺🇸 美国-故转
+      - 🇹🇼 台湾-故转
+      - 🇭🇰 香港-故转
+      - 🇯🇵 日本-故转
+      - 🇸🇬 新加坡-故转
+      - 🇰🇷 韩国-故转
+      - 🇬🇧 英国-故转
+      - 🌍 其他国家-故转
+    include-all: false
 
   - name: 🎮 PlayStation
     type: select
     proxies:
-      - 🔃 自动选择
-      - 🇺🇸 美国节点
-      - 🇹🇼 台湾节点
-      - 🇭🇰 香港节点
-      - 🇯🇵 日本节点
-      - 🇸🇬 新加坡节点
-      - 🇰🇷 韩国节点
-      - 🇬🇧 英国节点
-      - 🌍 其他国家
       - DIRECT
-    include-all: true
+      - 🔃 自动选择
+      - 🇺🇸 美国-故转
+      - 🇹🇼 台湾-故转
+      - 🇭🇰 香港-故转
+      - 🇯🇵 日本-故转
+      - 🇸🇬 新加坡-故转
+      - 🇰🇷 韩国-故转
+      - 🇬🇧 英国-故转
+      - 🌍 其他国家-故转
+    include-all: false
 
   - name: 🎮 Nintendo
     type: select
     proxies:
-      - 🔃 自动选择
-      - 🇺🇸 美国节点
-      - 🇹🇼 台湾节点
-      - 🇭🇰 香港节点
-      - 🇯🇵 日本节点
-      - 🇸🇬 新加坡节点
-      - 🇰🇷 韩国节点
-      - 🇬🇧 英国节点
-      - 🌍 其他国家
       - DIRECT
-    include-all: true
+      - 🔃 自动选择
+      - 🇺🇸 美国-故转
+      - 🇹🇼 台湾-故转
+      - 🇭🇰 香港-故转
+      - 🇯🇵 日本-故转
+      - 🇸🇬 新加坡-故转
+      - 🇰🇷 韩国-故转
+      - 🇬🇧 英国-故转
+      - 🌍 其他国家-故转
+    include-all: false
 
   - name: 🎮 游戏
     type: select
     proxies:
-      - 🔃 自动选择
-      - 🇺🇸 美国节点
-      - 🇹🇼 台湾节点
-      - 🇭🇰 香港节点
-      - 🇯🇵 日本节点
-      - 🇸🇬 新加坡节点
-      - 🇰🇷 韩国节点
-      - 🇬🇧 英国节点
-      - 🌍 其他国家
       - DIRECT
-    include-all: true
+      - 🔃 自动选择
+      - 🇺🇸 美国-故转
+      - 🇹🇼 台湾-故转
+      - 🇭🇰 香港-故转
+      - 🇯🇵 日本-故转
+      - 🇸🇬 新加坡-故转
+      - 🇰🇷 韩国-故转
+      - 🇬🇧 英国-故转
+      - 🌍 其他国家-故转
+    include-all: false
 
   - name: 🔞 Porn
     type: select
     proxies:
       - 🔃 自动选择
-      - 🇺🇸 美国节点
-      - 🇹🇼 台湾节点
-      - 🇭🇰 香港节点
-      - 🇯🇵 日本节点
-      - 🇸🇬 新加坡节点
-      - 🇰🇷 韩国节点
-      - 🇬🇧 英国节点
-      - 🌍 其他国家
+      - 🇺🇸 美国-故转
+      - 🇹🇼 台湾-故转
+      - 🇭🇰 香港-故转
+      - 🇯🇵 日本-故转
+      - 🇸🇬 新加坡-故转
+      - 🇰🇷 韩国-故转
+      - 🇬🇧 英国-故转
+      - 🌍 其他国家-故转
       - DIRECT
-    include-all: true
+    include-all: false
 
   - name: 📲 TikTok
     type: select
     proxies:
       - 🔃 自动选择
-      - 🇺🇸 美国节点
-      - 🇹🇼 台湾节点
-      - 🇭🇰 香港节点
-      - 🇯🇵 日本节点
-      - 🇸🇬 新加坡节点
-      - 🇰🇷 韩国节点
-      - 🇬🇧 英国节点
-      - 🌍 其他国家
+      - 🇺🇸 美国-故转
+      - 🇹🇼 台湾-故转
+      - 🇭🇰 香港-故转
+      - 🇯🇵 日本-故转
+      - 🇸🇬 新加坡-故转
+      - 🇰🇷 韩国-故转
+      - 🇬🇧 英国-故转
+      - 🌍 其他国家-故转
       - DIRECT
-    include-all: true
+    include-all: false
 
   - name: 💸 Crypto
     type: select
     proxies:
       - 🔃 自动选择
-      - 🇺🇸 美国节点
-      - 🇹🇼 台湾节点
-      - 🇭🇰 香港节点
-      - 🇯🇵 日本节点
-      - 🇸🇬 新加坡节点
-      - 🇰🇷 韩国节点
-      - 🇬🇧 英国节点
-      - 🌍 其他国家
+      - 🇺🇸 美国-故转
+      - 🇹🇼 台湾-故转
+      - 🇭🇰 香港-故转
+      - 🇯🇵 日本-故转
+      - 🇸🇬 新加坡-故转
+      - 🇰🇷 韩国-故转
+      - 🇬🇧 英国-故转
+      - 🌍 其他国家-故转
       - DIRECT
-    include-all: true
+    include-all: false
 
   - name: 🎥 AppleTV
     type: select
     proxies:
       - 🔃 自动选择
-      - 🇺🇸 美国节点
-      - 🇹🇼 台湾节点
-      - 🇭🇰 香港节点
-      - 🇯🇵 日本节点
-      - 🇸🇬 新加坡节点
-      - 🇰🇷 韩国节点
-      - 🇬🇧 英国节点
-      - 🌍 其他国家
+      - 🇺🇸 美国-故转
+      - 🇹🇼 台湾-故转
+      - 🇭🇰 香港-故转
+      - 🇯🇵 日本-故转
+      - 🇸🇬 新加坡-故转
+      - 🇰🇷 韩国-故转
+      - 🇬🇧 英国-故转
+      - 🌍 其他国家-故转
       - DIRECT
-    include-all: true
+    include-all: false
 
   - name: 💳 PayPal
     type: select
     proxies:
       - 🔃 自动选择
-      - 🇺🇸 美国节点
-      - 🇹🇼 台湾节点
-      - 🇭🇰 香港节点
-      - 🇯🇵 日本节点
-      - 🇸🇬 新加坡节点
-      - 🇰🇷 韩国节点
-      - 🇬🇧 英国节点
-      - 🌍 其他国家
+      - 🇺🇸 美国-故转
+      - 🇹🇼 台湾-故转
+      - 🇭🇰 香港-故转
+      - 🇯🇵 日本-故转
+      - 🇸🇬 新加坡-故转
+      - 🇰🇷 韩国-故转
+      - 🇬🇧 英国-故转
+      - 🌍 其他国家-故转
       - DIRECT
-    include-all: true
+    include-all: false
 
   - name: 🌍 国外网站
     type: select
     proxies:
       - 🔃 自动选择
-      - 🇺🇸 美国节点
-      - 🇹🇼 台湾节点
-      - 🇭🇰 香港节点
-      - 🇯🇵 日本节点
-      - 🇸🇬 新加坡节点
-      - 🇰🇷 韩国节点
-      - 🇬🇧 英国节点
-      - 🌍 其他国家
+      - 🇺🇸 美国-故转
+      - 🇹🇼 台湾-故转
+      - 🇭🇰 香港-故转
+      - 🇯🇵 日本-故转
+      - 🇸🇬 新加坡-故转
+      - 🇰🇷 韩国-故转
+      - 🇬🇧 英国-故转
+      - 🌍 其他国家-故转
       - DIRECT
-    include-all: true
+    include-all: false
 
   - name: 🐟 漏网之鱼
     type: select
     proxies:
       - 🔃 自动选择
-      - 🇺🇸 美国节点
-      - 🇹🇼 台湾节点
-      - 🇭🇰 香港节点
-      - 🇯🇵 日本节点
-      - 🇸🇬 新加坡节点
-      - 🇰🇷 韩国节点
-      - 🇬🇧 英国节点
-      - 🌍 其他国家
+      - 🇺🇸 美国-故转
+      - 🇹🇼 台湾-故转
+      - 🇭🇰 香港-故转
+      - 🇯🇵 日本-故转
+      - 🇸🇬 新加坡-故转
+      - 🇰🇷 韩国-故转
+      - 🇬🇧 英国-故转
+      - 🌍 其他国家-故转
       - DIRECT
-    include-all: true
-    
+    include-all: false
 
+    
   - name: 🇺🇸 美国节点
     type: url-test
     url: http://www.apple.com/library/test/success.html
@@ -459,10 +489,23 @@ proxy-groups:
 rules:
   # 国内网站
   - GEOSITE,cn,DIRECT
+  # 🤖 ChatGPT
+  - GEOSITE,openai,🤖 ChatGPT
+  - GEOSITE,anthropic,🤖 ChatGPT
+  - GEOSITE,xai,🤖 ChatGPT
+  - DOMAIN-SUFFIX,perplexity.ai,🤖 ChatGPT
+  - DOMAIN-SUFFIX,claude.ai,🤖 ChatGPT
+  - DOMAIN-SUFFIX,gemini.google.com,🤖 ChatGPT
+  - DOMAIN-SUFFIX,aistudio.google.com,🤖 ChatGPT
+  - DOMAIN-SUFFIX,copilot.microsoft,🤖 ChatGPT
+  - DOMAIN-SUFFIX,midjourney.com,🤖 ChatGPT
+  - DOMAIN-SUFFIX,lmarena.ai,🤖 ChatGPT
   # 🎥 Netflix
   - GEOSITE,netflix,🎥 Netflix
   # 🎥 Disney+
   - GEOSITE,disney,🎥 Disney+
+  # 🎥 HBO
+  - GEOSITE,hbo,🎥 HBO
   # 🎵 Spotify
   - GEOSITE,spotify,🎵 Spotify
   # 📲 Telegram
@@ -477,6 +520,8 @@ rules:
   - GEOSITE,instagram,📲 Instagram
   # 📲 Facebook
   - GEOSITE,facebook,📲 Facebook
+  # 📲 WhatsApp
+  - GEOSITE,whatsapp,📲 Facebook
   # 🍎 Apple
   - GEOSITE,apple@cn,DIRECT
   - GEOSITE,apple,🍎 Apple
@@ -496,10 +541,6 @@ rules:
   # 🎮 游戏
   - GEOSITE,category-games@cn,DIRECT
   - GEOSITE,category-games,🎮 游戏
-  # 🤖 ChatGPT
-  - GEOSITE,openai,🤖 ChatGPT
-  - GEOSITE,anthropic,🤖 ChatGPT
-  - GEOSITE,xai,🤖 ChatGPT
   # 🔞 Porn
   - GEOSITE,category-porn,🔞 Porn
   # 📲 TikTok
@@ -520,4 +561,6 @@ rules:
   - GEOIP,twitter,📲 Twitter
   - GEOIP,CN,DIRECT
   # 🐟 漏网之鱼
+
   - MATCH,🐟 漏网之鱼
+
